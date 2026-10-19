@@ -1,0 +1,12 @@
+{
+  "id": "AloneFight",
+  "name": "AloneFight",
+  "author": "Charles",
+  "description": "独自多人战斗：一名本地玩家操控 2~4 名英雄，战斗、领奖、商店、事件、地图投票全部由一人统合完成，类似官方联机的单人变体。",
+  "version": "0.2.0",
+  "min_game_version": "0.107.1",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true
+}

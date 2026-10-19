@@ -1,0 +1,9 @@
+# 构建产物
+bin/
+obj/
+
+# 发布压缩包
+release/
+
+# IDE
+.vs/
